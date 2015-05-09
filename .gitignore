@@ -5,7 +5,7 @@ recipes/
 .DS_Store
 
 # Jekyll Files
-_site
+_site/
 .sass-cache
 
 # Byte-compiled / optimized / DLL files
